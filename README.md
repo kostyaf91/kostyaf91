@@ -11,7 +11,7 @@
 &nbsp;&nbsp;&nbsp;:video_game: &nbsp;Playing videogames on PS.\
 &nbsp;&nbsp;&nbsp;:tv: &nbsp;Really love superhero and SciFi movies.
 #### P.S
-&nbsp;&nbsp;&nbsp;:game_die: &nbsp;I'm playing D&D and other tabletops [my char at D&D](https://www.dndbeyond.com/characters/41260069), [my char at Savaged Worlds (Wh40k campaign)](https://svgd.us/xnmax1l3) .
+&nbsp;&nbsp;&nbsp;:game_die: &nbsp;I'm playing D&D and other tabletops: [my char at D&D](https://www.dndbeyond.com/characters/41260069), [my char at Savaged Worlds (Wh40k campaign)](https://svgd.us/xnmax1l3) .
 
 
 <p align="center">
