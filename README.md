@@ -7,7 +7,12 @@
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for technology and knowledge.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate for exploring and learning new stuff.\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;B.Sc of Computer Science graduate from '20 and DevOps Bootcamp from May '22 .\
-&nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Living in Israel with my lovely wife and son:two_hearts:, Milky :service_dog:, and Chicko :service_dog: and Sushi :black_cat:  .
+&nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Living in Israel with my lovely wife and son:two_hearts:, Milky :service_dog:, Chicko :service_dog: and Sushi :black_cat:.\
+&nbsp;&nbsp;&nbsp;:video_game: &nbsp;Playing videogames on PS.\
+&nbsp;&nbsp;&nbsp;:tv: &nbsp;Really love superhero and SciFi movies.
+#### P.S
+&nbsp;&nbsp;&nbsp;:game_die: &nbsp;I'm playing D&D and other tabletops [My Current char on D&D](https://www.dndbeyond.com/characters/41260069).
+
 
 <p align="center">
   <a href="mailto:kostyaf91@gmail.com?subject=Olá%20Kostya%20Filimonov"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
