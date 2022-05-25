@@ -10,8 +10,8 @@
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate for exploring and learning new stuff.\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;B.Sc of Computer Science graduate from '20 and DevOps Bootcamp from May '22 .\
 &nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Living in Israel with my lovely wife and son:two_hearts:, Milky :service_dog:, Chicko :service_dog: and Sushi 🐈 .\
-&nbsp;&nbsp;&nbsp;:video_game: &nbsp;Playing videogames on PS.\
-&nbsp;&nbsp;&nbsp;:tv: &nbsp;Really love superhero and SciFi movies.\
+&nbsp;&nbsp;&nbsp;:video_game: &nbsp;Playing video games on PS.\
+&nbsp;&nbsp;&nbsp;:tv: &nbsp;Really love superheroes and SciFi movies.\
 &nbsp;&nbsp;&nbsp;:fork_and_knife: &nbsp;Love food and a pretty good cook.
 #### P.S
 &nbsp;&nbsp;&nbsp;:game_die: &nbsp;I'm playing D&D and other tabletops: [my char at D&D](https://www.dndbeyond.com/characters/41260069), [my char at Savaged Worlds (Wh40k campaign)](https://svgd.us/xnmax1l3) .
