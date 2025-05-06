@@ -62,3 +62,12 @@ I’m **Kostya Filimonov**, a Cloud & Infrastructure Engineer
   <img src="https://komarev.com/ghpvc/?username=kostyaf91&style=plastic&label=Profile%20Views" />
   <img src="https://badges.pufler.dev/visits/kostyaf91/kostyaf91?color=black&logo=github" />
 </p>
+
+---
+
+
+🤣 Random Joke
+
+![Random Dev Joke](https://readme-jokes.vercel.app/api)
+
+
